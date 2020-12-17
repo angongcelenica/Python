@@ -13,6 +13,6 @@ These are a series of projects that include different variations of using Python
 
 •	Creating a code to respond to the user regarding the data they entered and the outcome
 
-![](/images/blob/main/random%20no.%20wrong.png?raw=true)
+![](https://github.com/angongcelenica/images/blob/main/coderight.jpg)
 
 ![](/images/blob/main/right.png)
