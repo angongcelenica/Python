@@ -15,4 +15,4 @@ These are a series of projects that include different variations of using Python
 
 ![](/images/coderight.jpg)
 
-![](/images/blob/main/right.png)
+![](/images/coderight2.jpg)
