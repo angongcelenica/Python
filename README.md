@@ -15,4 +15,4 @@ These are a series of projects that include different variations of using Python
 
 ![](/images/blob/main/random%20no.%20wrong.png?raw=true)
 
-![](/images/blob/main/random%20no.right.png?raw=true)
+![](https://github.com/angongcelenica/images/blob/main/right.png)
