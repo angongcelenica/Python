@@ -22,3 +22,45 @@ These are a series of projects that include different variations of using Python
 •	User Input programme to ask customer what their Favourite Starter, Main course, Dessert and Drink
 
 • The final outcome is displaying a message to show the data the customer has entered
+
+![](/images/restcode.png)
+
+![](/images/restoutcome.png)
+
+[Project 3 – Creating an interactive programme number game:](https://gist.github.com/angongcelenica/8ea1e8c3e92dd17b71bc960d8c2d3d0e) 
+
+•	Asking user to guess a number between 1-100
+
+•	Based on a selection of number a joke will be told
+
+•	If incorrect number is selected no joke will be told
+
+![](/images/codenum.png)
+
+![](/images/joke%204.png)
+
+![](/images/joke10.png)
+
+![](/images/joke6.png)
+
+[Project 4 – Creating a basic questionnaire to check eligibility to receive Coronavirus Home-Testing Kit:] (https://gist.github.com/angongcelenica/16935023c169e94ff061220cd3b6d9e9) 
+
+•	Created a flowchart diagram to breakdown and visualise steps to create programme
+
+![](/images/covid%20code%20diagram.png)
+
+![](/images/dfd%20code.png)
+
+[Project 5 – Creating procedures and passing parameters to perform calculations](https://gist.github.com/angongcelenica/d67ee1ab5db278d64f08f1d892f00856)
+
+![](/images/operators.png)
+
+
+
+
+
+
+
+
+
+
