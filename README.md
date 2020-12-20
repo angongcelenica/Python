@@ -40,7 +40,7 @@ These are a series of projects that include different variations of using Python
 
 ![](/images/joke6.png)
 
-[Project 4 – Creating a basic questionnaire to check eligibility to receive Coronavirus Home-Testing Kit:] (https://gist.github.com/angongcelenica/16935023c169e94ff061220cd3b6d9e9) 
+[Project 4 – Coronavirus Home-Testing Kit Eligibilty](https://gist.github.com/angongcelenica/16935023c169e94ff061220cd3b6d9e9) 
 
 •	Created a flowchart diagram to breakdown and visualise steps to create programme
 
