@@ -13,7 +13,6 @@ These are a series of projects that include different variations of using Python
 
 •	Creating a code to respond to the user regarding the data they entered and the outcome
 
-![](/images/coderight.jpg)
 
 ![](/images/coderight2.jpg)
 
@@ -23,7 +22,6 @@ These are a series of projects that include different variations of using Python
 
 • The final outcome is displaying a message to show the data the customer has entered
 
-![](/images/restcode.png)
 
 ![](/images/restoutcome.png)
 
@@ -35,7 +33,6 @@ These are a series of projects that include different variations of using Python
 
 •	If incorrect number is selected no joke will be told
 
-![](/images/codenum.png)
 
 ![](/images/joke%204.png)
 
