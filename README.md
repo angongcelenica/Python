@@ -46,7 +46,7 @@ These are a series of projects that include different variations of using Python
 
 ![](/images/covid%20code%20diagram.png)
 
-![](/images/dfd%20code.png)
+
 
 [Project 5 – Creating procedures and passing parameters to perform calculations](https://gist.github.com/angongcelenica/d67ee1ab5db278d64f08f1d892f00856)
 
