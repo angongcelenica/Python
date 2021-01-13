@@ -63,7 +63,11 @@ These are a series of projects that include different variations of using Python
 ![](/images/gradefail.png)
 
 
+[Project 7 - Yearly motorbike depreciation of 10% until it reaches below £1000](https://gist.github.com/angongcelenica/a49161146cfd4b880d26a99afa1fe4e7)
 
+• Created a loop programme to print out a yearly 10% depreciation from £2000 until it reaches below £1000.
 
+![](/images/bikecode.png)
 
+![](/images/bikedep.png)
 
