@@ -44,7 +44,7 @@ These are a series of projects that include different variations of using Python
 
 •	Created a flowchart diagram to breakdown and visualise steps to create programme
 
-![](/images/covid%20code%20diagram.png)
+![](/images/covidpic.png)
 
 
 
