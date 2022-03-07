@@ -32,10 +32,11 @@ This code shows how to create an interactive number guessing game. The user has 
 
 [Project 4 – Coronavirus Home-Testing Kit Eligibilty](https://gist.github.com/angongcelenica/16935023c169e94ff061220cd3b6d9e9) 
 
-This is an example of a flowchart diagram I created to plan, breakdown and visualise the steps to create a User Input Programme. The goal was to create an eligibility criteria for customers to order a Coronavirus Home-Testing kit.
+This is an example of a flowchart diagram I created to plan, breakdown and visualise the steps to create a User Input Programme. The goal was to create an eligibility criteria for customers to order a Coronavirus Home-Testing kit. Using the flowchart diagram I executed the code that would create this User Input Programme with multiple conditions in order to filter out the users that were elgible for the home-testing kits from those that would not be able to qualify.
 
 ![](/images/covidpic.png)
 
+![](/images/dfdcode.png) 
 
 
 [Project 5 – Creating procedures and passing parameters to perform calculations](https://gist.github.com/angongcelenica/d67ee1ab5db278d64f08f1d892f00856)
