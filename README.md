@@ -16,7 +16,7 @@ This code demonstrates how I created a random number guessing game using input f
 
 [Project 2 – Creating a selection menu for a restaurant order:](https://gist.github.com/angongcelenica/c80a53c2391ab99ab1996e8b6ec8db5b)
 
-I coded a User input programme to create a resturant style menu which asks the user what starter, main course, dessert and drink of their choice. The output displays the full order of the customer.
+I created a resturant style menu user input programme which asks the user what starter, main course, dessert and drink of their choice. The output displays the full order of the customer.
 
 ![](/images/restcode.png)
 
