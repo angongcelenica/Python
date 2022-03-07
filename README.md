@@ -9,9 +9,9 @@ A series of projects that include different variations of User Input Programmes 
 
 This code demonstrates how I created a random number guessing game using input functions for the user to type in any number of choice to generate a reponse on whether the user won the game or not.
 
-![](/images/coderight2.jpg)
-
 ![](/images/coderight.jpg)
+
+![](/images/coderight2.jpg)
 
 
 [Project 2 – Creating a selection menu for a restaurant order:](https://gist.github.com/angongcelenica/c80a53c2391ab99ab1996e8b6ec8db5b)
