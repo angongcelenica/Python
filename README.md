@@ -1,17 +1,14 @@
 # Python
 
 
-Beginner Python Mini Projects
+Mini Python Projects
 
-These are a series of projects that include different variations of using Python to get input from the user.
+A series of projects that include different variations of user input programmes.
 
-[Project 1 – Creating a guessing game using random numbers:](https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb) 
+[Project 1 – Creating a random number guessing game:](https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb) 
 
-•	Using Python to interact with the user
+This code demonstrates how I created a random number guessing game by creating input functions that allows the user to type in any number of choice which then generates a reponse on whether they won the game or not.
 
-•	Using the input function to get user to input data in this case a random number
-
-•	Creating a code to respond to the user regarding the data they entered and the outcome
 
 
 ![](/images/coderight2.jpg)
