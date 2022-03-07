@@ -9,13 +9,13 @@ A series of projects that include different variations of User Input Programmes 
 
 This code demonstrates how I created a random number guessing game using input functions for the user to type in any number of choice to generate a reponse on whether the user won the game or not.
 
-
 ![](/images/coderight2.jpg)
 
 [Project 2 – Creating a selection menu for a restaurant order:](https://gist.github.com/angongcelenica/c80a53c2391ab99ab1996e8b6ec8db5b)
 
 I coded a User input programme to create a resturant style menu which asks the user what starter, main course, dessert and drink of their choice. The output displays the full order of the customer.
 
+![](/images/restcode.png)
 
 ![](/images/restoutcome.png)
 
@@ -23,6 +23,7 @@ I coded a User input programme to create a resturant style menu which asks the u
 
 This code shows how to create an interactive number guessing game. The user has to guess any number between 1-100; I programmed the game to have a few selection of numbers between 1-100 that will output a joke, if the user guessed the number correctly and any number outside that selection will not generate a joke.
 
+![](/images/codenum.png)
 
 ![](/images/joke%204.png)
 
@@ -44,7 +45,6 @@ This is an example of a data flow diagram I created to plan, breakdown and visua
 
 ![](images/covworkyes.png)
 
-
 [Project 5 – Creating procedures and passing parameters to perform calculations](https://gist.github.com/angongcelenica/d67ee1ab5db278d64f08f1d892f00856)
 
 ![](/images/operators.png)
@@ -53,13 +53,11 @@ This is an example of a data flow diagram I created to plan, breakdown and visua
 
 This code demonstrates how I created a grade converter for students to convert percentages into a grade. It also has a condition that if the percentage falls below 50% then the output will change into a 'You have failed' message instead of a grade.
 
-
 ![](/images/gradecode.png)
 
 ![](/images/gradepass.png)
 
 ![](/images/gradefail.png)
-
 
 [Project 7 - Yearly motorbike depreciation of 10% until it reaches below £1000](https://gist.github.com/angongcelenica/a49161146cfd4b880d26a99afa1fe4e7)
 
