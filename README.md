@@ -11,6 +11,9 @@ This code demonstrates how I created a random number guessing game using input f
 
 ![](/images/coderight2.jpg)
 
+![](/images/coderight.jpg)
+
+
 [Project 2 – Creating a selection menu for a restaurant order:](https://gist.github.com/angongcelenica/c80a53c2391ab99ab1996e8b6ec8db5b)
 
 I coded a User input programme to create a resturant style menu which asks the user what starter, main course, dessert and drink of their choice. The output displays the full order of the customer.
@@ -18,6 +21,7 @@ I coded a User input programme to create a resturant style menu which asks the u
 ![](/images/restcode.png)
 
 ![](/images/restoutcome.png)
+
 
 [Project 3 – Creating an interactive programme number game:](https://gist.github.com/angongcelenica/8ea1e8c3e92dd17b71bc960d8c2d3d0e) 
 
@@ -30,6 +34,7 @@ This code shows how to create an interactive number guessing game. The user has 
 ![](/images/joke10.png)
 
 ![](/images/joke6.png)
+
 
 [Project 4 – Coronavirus Home-Testing Kit Eligibilty](https://gist.github.com/angongcelenica/16935023c169e94ff061220cd3b6d9e9) 
 
@@ -45,9 +50,11 @@ This is an example of a data flow diagram I created to plan, breakdown and visua
 
 ![](images/covworkyes.png)
 
+
 [Project 5 – Creating procedures and passing parameters to perform calculations](https://gist.github.com/angongcelenica/d67ee1ab5db278d64f08f1d892f00856)
 
 ![](/images/operators.png)
+
 
 [Project 6 - Creating a student grade converter](https://gist.github.com/angongcelenica/03a097d42832bca3902beb7488777bb3)
 
@@ -58,6 +65,7 @@ This code demonstrates how I created a grade converter for students to convert p
 ![](/images/gradepass.png)
 
 ![](/images/gradefail.png)
+
 
 [Project 7 - Yearly motorbike depreciation of 10% until it reaches below £1000](https://gist.github.com/angongcelenica/a49161146cfd4b880d26a99afa1fe4e7)
 
