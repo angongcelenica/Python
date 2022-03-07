@@ -3,11 +3,11 @@
 
 Mini Python Projects
 
-A series of projects that include different variations of user input programmes.
+A series of projects that include different variations of User Input Programmes which demontrates how the code will output with user input.
 
 [Project 1 – Creating a random number guessing game:](https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb) 
 
-This code demonstrates how I created a random number guessing game using input functions for the user to type in any number of choice which then generates a reponse on whether they won the game or not.
+This code demonstrates how I created a random number guessing game using input functions for the user to type in any number of choice to generate a reponse on whether the user won the game or not.
 
 
 ![](/images/coderight2.jpg)
@@ -21,7 +21,7 @@ I coded a User input programme to create a resturant style menu which asks the u
 
 [Project 3 – Creating an interactive programme number game:](https://gist.github.com/angongcelenica/8ea1e8c3e92dd17b71bc960d8c2d3d0e) 
 
-This code shows how to create an interactive number guessing game where the user has to guess any number between 1-100. I programmed the game to have a few selected numbers between 1-100 that will output a joke if the user guessed it correctly and any number outside that selection would not have a joke as the output.
+This code shows how to create an interactive number guessing game. The user has to guess any number between 1-100; I programmed the game to have a few selection of numbers between 1-100 that will output a joke, if the user guessed the number correctly and any number outside that selection will not generate a joke.
 
 
 ![](/images/joke%204.png)
@@ -44,7 +44,7 @@ This is an example of a flowchart diagram I created to plan, breakdown and visua
 
 [Project 6 - Creating a student grade converter](https://gist.github.com/angongcelenica/03a097d42832bca3902beb7488777bb3)
 
-This code demonstrates how I created a grade converter for students to convert prcentages into a grade.
+This code demonstrates how I created a grade converter for students to convert percentages into a grade. It also has a condition that if the percentage falls below 50% then the output will change into a 'You have failed' message instead of a grade.
 
 
 ![](/images/gradecode.png)
@@ -56,8 +56,7 @@ This code demonstrates how I created a grade converter for students to convert p
 
 [Project 7 - Yearly motorbike depreciation of 10% until it reaches below £1000](https://gist.github.com/angongcelenica/a49161146cfd4b880d26a99afa1fe4e7)
 
-This code demonstrates a loop programme that will show the 10% yearly depreciation of £2000 until it hits below £1000 of a motorbike.
-
+This code demonstrates a loop programme to show the 10% yearly depreciation of a motorbike until it reached below £1000. The starting price of the motorbike was £2000 and the programme calculated and printed the result for each year until it finally hit below £1000 in Year 8.
 
 ![](/images/bikecode.png)
 
