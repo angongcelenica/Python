@@ -25,7 +25,7 @@ I created a resturant style menu user input programme which asks the user what s
 
 [Project 3 – Creating an interactive programme number game:](https://gist.github.com/angongcelenica/8ea1e8c3e92dd17b71bc960d8c2d3d0e) 
 
-This code shows how to create an interactive number guessing game. The user has to guess any number between 1-100; I programmed the game to have a few selection of numbers between 1-100 that will output a joke, if the user guessed the number correctly and any number outside that selection will not generate a joke.
+This code shows how to create an interactive number guessing game. The user has to guess any number between 1-100; I programmed the game to have a few selection of numbers between 1-100 that will output a joke if the user guessed the number correctly, and any number that's not included in that selection will not generate a joke.
 
 ![](/images/codenum.png)
 
