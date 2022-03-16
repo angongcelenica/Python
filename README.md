@@ -7,7 +7,7 @@ A series of projects that include different variations of User Input Programmes.
 
 [Project 1 – Creating a random number guessing game:](https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb) 
 
-This code demonstrates how I created a random number guessing game using input functions for the user to type in any number of choice to generate a reponse on whether the user won the game or not.
+This code demonstrates how I created a random number guessing game by creating a user input programme to type in any number of choice to generate a reponse on whether the user won the game or not.
 
 ![](/images/coderight.jpg)
 
@@ -64,7 +64,7 @@ I created a programme to perform basic calculations using procedures and passing
 
 [Project 6 - Creating a student grade converter](https://gist.github.com/angongcelenica/03a097d42832bca3902beb7488777bb3)
 
-This code demonstrates how I created a grade converter for students to convert percentages into a grade. It also has a condition that if the percentage falls below 50% then the output will change into a 'You have failed' message instead of a grade.
+This code demonstrates how I created a grade converter for students to convert percentages into a grade. It has a condition that if the percentage falls below 50% then the output will change into a 'You have failed' message instead of a grade.
 
 ![](/images/gradecode.png)
 
