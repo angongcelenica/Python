@@ -53,7 +53,13 @@ This is an example of a data flow diagram I created to plan, breakdown and visua
 
 [Project 5 – Creating procedures and passing parameters to perform calculations](https://gist.github.com/angongcelenica/d67ee1ab5db278d64f08f1d892f00856)
 
+I created a programme to perform basic calculations using procedures and passing parameters the pictures below demonstrates an example of the output. In order to ensure the validity of calculation programme I ensured that there was a condition to display an error message if none of the choice of math operators were used.
+
 ![](/images/operators.png)
+
+![](images/opnum.png)
+
+![](/images/opnum2.png)
 
 
 [Project 6 - Creating a student grade converter](https://gist.github.com/angongcelenica/03a097d42832bca3902beb7488777bb3)
