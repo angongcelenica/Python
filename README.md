@@ -1,5 +1,7 @@
 # Python
+## What is Python?
 
+Python is a computer programming language that is commonly used for developing websites and software, task automation, data anlysis and visualisation. It is described as an all-purpose language which can be used to create a variety of different programmes and one of the most used programming languages. Using Python I created some basic user input programmes, a passing and procedures parameteter to perform basic calculations and a loop programme.
 
 ## Mini Python Projects
 
