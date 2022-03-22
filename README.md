@@ -1,9 +1,7 @@
 # Python
 
 
-Mini Python Projects
-
-A series of projects that include different variations of User Input Programmes.
+## Mini Python Projects
 
 [Project 1 – Creating a random number guessing game:](https://gist.github.com/angongcelenica/693535b5cc9d2b51ffb3b7c6b8c6fadb) 
 
