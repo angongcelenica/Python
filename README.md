@@ -19,7 +19,6 @@ This code demonstrates how I created a random number guessing game by creating a
 I created a resturant style menu user input programme which asks the user what starter, main course, dessert and drink of their choice. The output displays the full order of the customer.
 
 ![](/images/restcode.png)
-
 ![](/images/restoutcome.png)
 
 
@@ -28,12 +27,10 @@ I created a resturant style menu user input programme which asks the user what s
 This code shows how to create an interactive number guessing game. The user has to guess any number between 1-100; I programmed the game to have a few selection of numbers between 1-100 that will output a joke if the user guessed the number correctly, and any number that's not included in that selection will not generate a joke.
 
 ![](/images/codenum.png)
-
 ![](/images/joke%204.png)
-
 ![](/images/joke10.png)
-
 ![](/images/joke6.png)
+
 
 
 [Project 4 – Coronavirus Home-Testing Kit Eligibilty](https://gist.github.com/angongcelenica/16935023c169e94ff061220cd3b6d9e9) 
